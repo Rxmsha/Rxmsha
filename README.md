@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Rimsha</h1>
-<div align="center"> <img src="banner.png"> </div>
+<div align="center" width="10" height="10"> <img src="banner.png"> </div>
 <h3 align="center">Welcome to my corner of the Internet</h3>
 <h3 align="center">Figuring it out</h3>
 <img align="right" alt="Coding" width="250" src="geek-girl.gif">
