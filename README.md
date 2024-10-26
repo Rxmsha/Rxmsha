@@ -12,7 +12,7 @@
 
 👯 I’m looking to collaborate on **Game development**
 
-👨‍💻 All of my projects are available at [https://rxmsha.github.io/rxmshaa/](https://rxmsha.github.io/rxmshaa/)
+👨‍💻 Checkout my portfolio at [https://rxmsha.github.io/rxmshaa/](https://rxmsha.github.io/rxmshaa/)
 
 
 <h3 align="left">Connect with me:</h3>
