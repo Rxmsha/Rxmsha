@@ -10,7 +10,7 @@
 
 🌱 I’m also learning **Unity**
 
-👯 I’m looking to collaborate on **Game development**
+👯 Looking to collaborate on **Game development**
 
 👨‍💻 Checkout my portfolio at [https://rxmsha.github.io/rxmshaa/](https://rxmsha.github.io/rxmshaa/)
 
