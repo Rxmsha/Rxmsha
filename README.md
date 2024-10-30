@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on **AMMI**
 
-🌱 I’m currently learning **Unity**
+🌱 I’m also learning **Unity**
 
 👯 I’m looking to collaborate on **Game development**
 
