@@ -6,9 +6,7 @@
 <img align="right" alt="Coding" width="250" src="assets/geek-girl.gif">
 
 
-🔭 I'm currently building **SignWave**, an ASL learning tool that gives real-time feedback on your signs
-
-💼 Technical Product Manager & Full Stack Developer at **LaundryWell**
+🔭 I'm currently leading the platform revamp at **LaundryWell** as Technical Product Manager & Full Stack Developer
 
 🧠 Into **computer vision**, **applied AI** and shipping products people actually use
 
@@ -36,7 +34,6 @@
 
 <h2 align="center">🚀 Things I've Built 🚀</h2>
 
-- **SignWave**: ASL learning tool with my own sign recognition model and instant webcam feedback
 - **QuickPath**: healthcare staffing platform with a matching algorithm that pairs professionals with institutions
 - **Machine Health Monitor** (natHacks 2026): detects faults in a power drill from vibration and temperature data
 - **Job Radar**: job tracking app that pulls new postings straight from company ATS APIs and job boards
