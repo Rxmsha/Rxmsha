@@ -35,9 +35,11 @@
 <h2 align="center">🚀 Things I've Built 🚀</h2>
 
 - **QuickPath**: healthcare staffing platform with a matching algorithm that pairs professionals with institutions
-- **Machine Health Monitor** (natHacks 2026): detects faults in a power drill from vibration and temperature data
-- **Job Radar**: job tracking app that pulls new postings straight from company ATS APIs and job boards
 - **CourtCall**: live court rotation app for my badminton group
+- **Anonymous Posting Wall**: Next.js + Supabase posting wall that grew from 3 seeded posts to 87 with zero promotion
+- **Collab Portal**: co-branded partner portal for a mortgage business, using OpenAI for personalized content and Stripe for payments
+- **HK Plus Flooring**: marketing site for an Edmonton flooring company with a project gallery and free-estimate flow ([hkplusflooring.ca](https://hkplusflooring.ca))
+- **Kuchisabishii**: CMPUT 401 client project where I'm Product Owner and developer on a 7-person team
 
 <hr/>
 
